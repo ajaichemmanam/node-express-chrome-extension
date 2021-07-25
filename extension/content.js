@@ -1,0 +1,1 @@
+alert("Hi, This is the test chrome extension")
