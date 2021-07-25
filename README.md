@@ -1,2 +1,2 @@
-# node-xpress-chrome-extension
+# node-express-chrome-extension
 A boiler plate code for communication between an nodejs express server and a chrome extension
